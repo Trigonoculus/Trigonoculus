@@ -1,7 +1,7 @@
 ### Hello 👋
-- 🏫 University student from Thailand. 
+- 🏫 University student from Bangkok, Thailand. 
 - 🖌️ Hobbies are graphic design and photography.
-- 💻 I can write a bit of JavaScript / MATLAB code. Currently learning Vue.js.
+- 💻 I can write a bit of JavaScript (Node.js) / MATLAB code. Currently learning Vue.js.
 - 🎲 I play osu! sometimes - here is [my profile](https://osu.ppy.sh/users/Trigonoculus) :)
 
 <!--
